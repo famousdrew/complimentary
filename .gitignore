@@ -1,0 +1,43 @@
+# Python
+ml-training/venv/
+ml-training/__pycache__/
+ml-training/*.pyc
+ml-training/*.pyo
+ml-training/*.pyd
+ml-training/.Python
+ml-training/models/
+
+# Node modules
+complimentary-app/node_modules/
+
+# iOS
+complimentary-app/ios/Pods/
+complimentary-app/ios/build/
+complimentary-app/ios/*.xcworkspace/xcuserdata/
+complimentary-app/ios/*.xcodeproj/xcuserdata/
+
+# Android
+complimentary-app/android/build/
+complimentary-app/android/.gradle/
+complimentary-app/android/app/build/
+
+# Expo
+complimentary-app/.expo/
+complimentary-app/.expo-shared/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
